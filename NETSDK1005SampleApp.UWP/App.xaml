@@ -1,0 +1,7 @@
+﻿<Application
+    x:Class="NETSDK1005SampleApp.UWP.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:NETSDK1005SampleApp.UWP">
+
+</Application>
